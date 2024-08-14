@@ -3,3 +3,6 @@ build/
 *.sav
 *.gba
 *.elf
+
+.vscode
+**.pkg
